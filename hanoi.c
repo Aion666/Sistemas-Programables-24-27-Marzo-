@@ -1,6 +1,7 @@
 /*	Sistemas programables
 	Alumno: Santos Gonzalez Miguel Angel
 	7-8 am
+	Número de movimientos
 */
 
 #include<stdio.h>
